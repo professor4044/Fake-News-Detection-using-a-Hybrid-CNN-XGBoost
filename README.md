@@ -28,7 +28,7 @@ The pipeline of this project follows these stages:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/professor4044/Fake-News-Detection-using-a-Hybrid-CNN-XGBoost.git]
+   https://github.com/professor4044/Fake-News-Detection-using-a-Hybrid-CNN-XGBoost.git
 2. Install necessary libraries:
    pip install tensorflow xgboost scikit-learn pandas numpy
 
